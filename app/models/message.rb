@@ -1,4 +1,4 @@
 class Message < ApplicationRecord
-  bestrong_to :user
-  bestrong_to :room
+  belongs_to :room
+  belongs_to :user
 end
