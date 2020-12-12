@@ -1,5 +1,8 @@
 # Additional translations at https://github.com/heartcombo/devise/wiki/I18n
-
+ja:
+  time:
+    formats:
+      default: "%Y/%m/%d %H:%M:%S"
 en:
   devise:
     confirmations:
